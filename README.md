@@ -22,4 +22,4 @@ Click on EV-Population-Analysis.html above to explore the analysis directly in y
 ---
 
 Author: Analyst Mina  
-Contact: [Your email or LinkedIn link]
+Contact: babruham24@gmail.com
